@@ -1,5 +1,7 @@
 Model: *google/gemini-3-pro*
 
+Referring to [Erotic-Tension-Feale-POV.md](https://github.com/calyaconsult/anthology-ai-texts/blob/b9f504911fdd3526acb55b7017a3489b5009b4ef/Erotic-Tension-Female-POV.md)
+
 This is a competent and evocative piece of prose that firmly establishes itself within the **romantic suspense** or **adventure romance** genre. The writer effectively uses the setting (the oppressive jungle) to mirror the internal state of the protagonist (sexual tension and frustration).
 
 Here is a critical examination of the piece, broken down by element:
@@ -61,3 +63,4 @@ This is a polished example of **romance writing**. It succeeds in its primary go
 
 **Suggestion for improvement:**
 To elevate the prose, the writer should "cool down" the internal monologue. Let Sammy be genuinely afraid of the jungle; it will make her attraction to Carl (as a source of safety/anchoring) feel more earned and less like pure hormones. Subtlety in the descriptions of his body would generate more erotic tension than the current overt fixation.
+
