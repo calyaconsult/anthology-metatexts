@@ -1,5 +1,8 @@
 Model: *google/gemini-3-pro*
 
+Referring to [Sometown-Nebraska-Arrival-of-Villain.md](https://github.com/calyaconsult/anthology-ai-texts/blob/b9f504911fdd3526acb55b7017a3489b5009b4ef/Sometown-Nebraska-Arrival-of-Villain.md)
+
+
 This is a competent, evocative piece of genre fiction that clearly understands the conventions of the Western. It is atmospheric and tense, successfully establishing a mood of impending violence. However, it also suffers from a reliance on cliché and a tendency toward "over-writing," where the prose draws too much attention to its own cleverness rather than the story.
 
 Here is a critical breakdown of the prose, categorized by its elements.
@@ -54,3 +57,4 @@ This is a polished, "high-gloss" piece of writing. It reads like the opening to 
 
 **Rewrite Suggestion:**
 If the author dialed back the adjectives and let the actions speak for themselves, the menace would feel more authentic. Instead of telling us the patience "made a man's throat dry," describe the silence stretching until a specific man coughs. Show, don't tell the emotion of the scene.
+
