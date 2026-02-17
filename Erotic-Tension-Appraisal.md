@@ -1,5 +1,7 @@
 Model: *google/gemini-3-pro*
 
+Referring to [Erotic-Tension-Male-POV.md](https://github.com/calyaconsult/anthology-ai-texts/blob/b9f504911fdd3526acb55b7017a3489b5009b4ef/Erotic-Tension-Male-POV.md)
+
 This passage is a clear example of **genre fiction**, specifically falling within the **romantic suspense** or **adventure romance** categories. It functions effectively to establish immediate physical and sexual tension, but it relies heavily on tropes and clichés to do so.
 
 Here is a critical examination of the prose, broken down by elements of style, atmosphere, characterization, and logic.
@@ -44,3 +46,4 @@ There is a tendency to "Tell" rather than "Show" regarding emotions.
 
 ### Conclusion
 This is a **functional, competent piece of commercial romance writing**. It achieves its goal: to titillate the reader and establish the romantic conflict. However, purely as prose, it lacks originality. It leans on the crutches of cliché ("jolt of electricity," "shattered the spell") and prioritizes sexual fantasy over psychological realism or character depth. It would fit perfectly in a mass-market paperback but would need significant revision to stand as literary fiction or gritty survival drama.
+
