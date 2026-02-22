@@ -2,9 +2,15 @@
 
 Referencing ['*The Weight of Hours*'](https://github.com/calyaconsult/anthology-ai-texts/blob/a0559ed5dd8cfc303b522c568adb8d4561a1827c/The-Weight-of-Hours-Chapter-3.md)
 
-*Prompt and model have been lost. Model is most probably ChatGPT 5*
+**Prompt** Assume the role of a no-nonsense literary critic and roast the following excerpt from a novel:
+```
+# The Weight of Hours
+## Part Three: The Past Is a Zombie
+### Chapter One
+```
 
-## The critic's voice
+## Response
+Model *ChatGPT 5*
 
 All right, let’s cut through the sentimentality fog and talk straight.
 
@@ -117,3 +123,4 @@ A woman returns to a city, wanders through fragments of memory, meets versions o
 It’s *Marienbad in Portland*, *Cléo at a Stumptown*.
 
 If this were on film, it would be shot in long takes, washed-out daylight, dialogue half-overwritten by ambient café sounds. The soundtrack would be a few piano notes and maybe a jazz trumpet pretending not to care.
+
