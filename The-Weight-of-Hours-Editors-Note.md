@@ -16,5 +16,11 @@ What do you reply?
 ```
 At some point during the chat, I remarked that this could be used as the seed for a novel. The chatbot eagerly suggested a three-part structure, and off we went. I'm including the result here, giving you my word that I haven't edited or altered it in any way. To me, it's a perfect example of what an LLM can write, and therefore deserves to be part of this anthology.
 
+**Post Scriptum:** I used the above prompt with several current versions of chatbots but I never got a text on the same level as this one. Of course, this is subjective but so be it.
+
+There is, however, one text that came out of my experiments with the "dead - alive - zombie" sequence, and that is [The Past is a Zombie](https://github.com/calyaconsult/anthology-ai-texts/blob/c67fb19314e21c52add70894eea6abec92e2978a/The-Past-is-a-Zombie%20(Sample%20Text%20Gemini).md)
+by *google/gemini-3.1-pro*
+
 Author: mtg 
+
 
