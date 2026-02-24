@@ -1,4 +1,4 @@
-**Prompt** I say:<br>- The past is dead.<br>- The past is alive.<br>- The past is a zombie.<br>What do you reply? And how could your reply become the blueprint for a psychological novel with literary ambitions?
+**Prompt:** I say:<br>- The past is dead.<br>- The past is alive.<br>- The past is a zombie.<br>What do you reply? And how could your reply become the blueprint for a psychological novel with literary ambitions?
 
 ## Response
 Model *openai/gpt-5.2*
@@ -216,4 +216,5 @@ That’s essentially your three statements converted into narrative pressure.
 ---
 
 If you tell me what kind of “past” you’re imagining (family secret, political history, romantic betrayal, childhood harm, crime, institutional cover-up, etc.) and what tone you want (austere, lush, satirical, gothic-realistic, autofiction-adjacent), I can turn this blueprint into a tighter chapter-by-chapter outline with character names, a specific setting, and a consistent formal device for each of the three sections.
+
 
