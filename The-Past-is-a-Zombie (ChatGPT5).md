@@ -213,8 +213,10 @@ You could open with something like:
 
 That’s essentially your three statements converted into narrative pressure.
 
+**Editor's note:** This “blueprint paragraph” was used as prompt for [The Past is a Zombie (Sample Text Gemini)](https://github.com/calyaconsult/anthology-ai-texts/blob/6c0b5d4193b4c04029eb3d7d1898f8ca9650d8b9/The-Past-is-a-Zombie%20(Sample%20Text%20Gemini).md)
 ---
 
 If you tell me what kind of “past” you’re imagining (family secret, political history, romantic betrayal, childhood harm, crime, institutional cover-up, etc.) and what tone you want (austere, lush, satirical, gothic-realistic, autofiction-adjacent), I can turn this blueprint into a tighter chapter-by-chapter outline with character names, a specific setting, and a consistent formal device for each of the three sections.
+
 
 
