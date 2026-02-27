@@ -1,4 +1,4 @@
-**Prompt** Grandfather: Rasmus has three sons: Jonathan, Randolph, Elias. Jonathan dies early; his father survives him. When the father dies his house goes to Randolph who is unmarried and without offspring. Elias has a son named Benjamin, Jonathan a son named Arthur. Randolph is the last of Rasnus's sons to die. In his will, he leaves the house he inherited to Arthur, the son of his older brother. Can you see the logic here or is there a flaw?
+**Prompt** Grandfather Rasmus has three sons: Jonathan, Randolph, Elias. Jonathan dies early; his father survives him. When the father dies his house goes to Randolph who is unmarried and without offspring. Elias has a son named Benjamin, Jonathan a son named Arthur. Randolph is the last of Rasnus's sons to die. In his will, he leaves the house he inherited to Arthur, the son of his older brother. Can you see the logic here or is there a flaw?
 
 ## Response
 Model *openai/gpt-5*
@@ -20,3 +20,4 @@ So:
 - If Randolph only had a life interest or the house was subject to a remainder or class gift under Rasmus’s estate plan, then Randolph could not redirect it by will, and the bequest to Arthur would be a flaw.
 
 Given your phrasing—“When the father dies his house goes to Randolph” and later “In his will, he leaves the house he inherited to Arthur”—it reads like Randolph owned it outright. In that straightforward scenario, the logic is sound, and there’s no flaw.
+
