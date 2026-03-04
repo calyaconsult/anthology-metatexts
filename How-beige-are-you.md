@@ -6,7 +6,8 @@ In discussions about AI writing, the word "beige" pops up almost as often as a C
 
 **Prompt:** What do the colors purple, beige, and blue stand for when they are used to describe writing? In how far are they useful to differentiate AI-generated texts from human-written texts?
 
-**ChatGPT**
+## Response
+Model *openai/gpt-5*
 
 #### Short answer:
 - **Purple prose:** Overly ornate, flowery, or melodramatic writing that calls attention to itself more than it serves the content.
@@ -114,3 +115,4 @@ The more honest answer is that my default register is calibrated toward accessib
 - **Beige isn't the same as bad.** This might be your sharpest point. "Bad writing" has real meaning: it obscures, misleads, bores through incoherence, fails its purpose. Beige writing is often perfectly functional. Conflating the two lets critics sound more damning than they actually are.
 
 - **And finally** — the beigeness critique tends to assume a fixed standard of what good writing looks like, usually one that prizes a certain kind of literary voice. That's a taste preference dressed up as a quality judgment. Plenty of celebrated human writers are accused of being beige too. Cormac McCarthy would call Hemingway beige. Someone calls McCarthy beige. It's turtles all the way down.
+
