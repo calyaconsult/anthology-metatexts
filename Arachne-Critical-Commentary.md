@@ -1,3 +1,8 @@
+**Prompt:** Write a critical commentary on the following story:
+
+Reference: [Arachne-SF](https://github.com/calyaconsult/anthology-ai-texts/blob/65d0f91bfcb8a31606f4f9b39e7bc68a75f7e742/Arachne-SF.md)
+
+## Response
 Model: *Copilot*
 
 Below is a **critical commentary** on your story—written in a scholarly, anthology‑ready voice, but still attuned to the emotional and conceptual architecture you’ve built. I’ll treat the piece as a finished literary artifact and analyze its techniques, themes, and intellectual stakes.
@@ -69,3 +74,4 @@ If you’d like, I can also craft:
 - or a **companion story** told from Arachne’s perspective  
 
 Just tell me where you want to take this next.
+
