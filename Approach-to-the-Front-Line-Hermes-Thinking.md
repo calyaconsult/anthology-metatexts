@@ -1,4 +1,13 @@
+**Editor's note:** The two texts presented here reveal the "thinking" a model does before responding with a final outout. Some models hides this, other models reveal it to the user. We included this in the "metatexts" for our anthology as an example for an internal metatext.
+
+Reference: [Approach to the Front Line (Hermes)](https://github.com/calyaconsult/anthology-ai-texts/blob/65d0f91bfcb8a31606f4f9b39e7bc68a75f7e742/Approach-to-the-Front-Line-Hermes.md)
+
 ### First Prompt
+
+**Prompt:** For a WWII novel, describe the approach to the front line in Northern France from the point of view of the crew of a Sherman tank.
+
+## Response
+Model *hermes-4-405B*
 
 Okay, I need to describe the approach to the front line in Northern France from the perspective of a Sherman tank crew during WWII. Let me start by recalling what I know about Sherman tanks and the European theater. Sherman tanks were used by the Allies, so the crew would likely be American or British. The time period is probably around D-Day or the subsequent battles in Normandy.
 
@@ -31,6 +40,7 @@ Check for any historical inaccuracies. For example, Sherman tanks were indeed us
 Finally, ensure the narrative flows smoothly, building up the atmosphere and tension as they approach the front line.
 
 ### Second Prompt
+**Prompt:** Write the same scene from the point of view of civilians hiding in the farm house.
 
 Okay, the user wants the same scene but from the perspective of civilians hiding in the farmhouse. Let me start by recalling the original scene. The Sherman tank crew is approaching the front line, and there's a mention of a farmhouse where they spot German soldiers. Now, shifting the viewpoint to civilians there.
 
@@ -61,3 +71,4 @@ Ending the scene with the family emerging, seeing the destruction, wondering abo
 Ensure the language is vivid but not overly dramatic. Focus on sensory details to immerse the reader in the civilians' experience. Avoid anachronisms and keep the historical context accurate.
 
 Finally, review to make sure the shift in perspective is clear and effective, providing a contrasting view to the tank crew's experience while maintaining the scene's intensity.
+
