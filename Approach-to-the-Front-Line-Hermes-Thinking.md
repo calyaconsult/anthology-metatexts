@@ -1,4 +1,4 @@
-**Editor's note:** The two texts presented here reveal the "thinking" a model does before responding with a final output. Some models hide this, other models reveal it to the user. We included these two examples in the "metatexts" for our anthology as an example for an internal metatext.
+**Editor's note:** The two texts presented here reveal the "thinking" a model does before responding with a final output. Some models hide this, other models reveal it to the user. We included these two examples in the "metatexts" of our anthology as an example for an internal metatext.
 
 Reference: [Approach to the Front Line (Hermes)](https://github.com/calyaconsult/anthology-ai-texts/blob/65d0f91bfcb8a31606f4f9b39e7bc68a75f7e742/Approach-to-the-Front-Line-Hermes.md)
 
@@ -71,5 +71,6 @@ Ending the scene with the family emerging, seeing the destruction, wondering abo
 Ensure the language is vivid but not overly dramatic. Focus on sensory details to immerse the reader in the civilians' experience. Avoid anachronisms and keep the historical context accurate.
 
 Finally, review to make sure the shift in perspective is clear and effective, providing a contrasting view to the tank crew's experience while maintaining the scene's intensity.
+
 
 
